@@ -1,0 +1,9 @@
+# view res/layout/fragment_bluetooth_chat.xml #generated:108
+-keep class com.github.mikephil.charting.charts.LineChart { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.ys.yspro.ysbluetoothchart.DeviceListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.ys.yspro.ysbluetoothchart.MainActivity { <init>(...); }
+

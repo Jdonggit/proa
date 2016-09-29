@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Program Files\\Ora\\pro\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Program Files\\Ora\\pro\\Application\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Ora\\pro\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth_chat.xml",
+        "source": "C:\\Program Files\\Ora\\pro\\Application\\src\\main\\res\\layout\\fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Ora\\pro\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "C:\\Program Files\\Ora\\pro\\Application\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Ora\\pro\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Program Files\\Ora\\pro\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Ora\\pro\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "C:\\Program Files\\Ora\\pro\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
+    }
+]
